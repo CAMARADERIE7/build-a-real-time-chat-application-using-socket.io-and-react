@@ -1,1 +1,1 @@
-# build-a-real-time-chat-application-using-socket.io-and-react
+A real-time-chat-application-using-socket.io-and-react
